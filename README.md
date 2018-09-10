@@ -1,3 +1,5 @@
-# My Awesome Book
+# Learn Bioinformatics the hard way
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**扎实地学生物信息学**，I prefer this Chinese translation.
+
+Well, I was searching a good name for books aimed from the beginning, and *The Hard Way Series* seems a good name.
